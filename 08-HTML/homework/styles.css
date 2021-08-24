@@ -1,0 +1,16 @@
+h1{color:rgb(4, 27, 156)}
+img{width: 700px; 
+    margin:0 auto}
+#thirdiv{height: 600 px; 
+    width: 500px; 
+    margin:0 auto
+    background-color: rgb(6, 191, 216); 
+    padding: 100px; 
+    border:rgba(red, green, blue, alpha);}
+#spanid{font-size: 90px; font-style:normal;
+     margin: 500px;
+     color: hsl(0, 100%, 40%);
+    text-align:right;}
+.divClass{background-image: url("https://mdn.mozillademos.org/files/11991/startransparent.gif");
+    text-align: center}
+  
